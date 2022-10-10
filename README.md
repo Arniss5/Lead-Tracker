@@ -1,13 +1,12 @@
-# coc8640b4ab7ea074c56f6bdc
+# Lead Tracker
 
-## About Scrimba
+## About
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+A simple chrome extension that lets you save a current tab with a one click.
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## What I have learned
 
-Happy Coding!
+- how to create a manifest json file
+- how to add a program to chrome extensions
+- saving and getting data from local storage
+- how to render elements using JavaScript
